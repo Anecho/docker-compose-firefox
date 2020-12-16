@@ -1,0 +1,7 @@
+.mozilla*
+certs*
+downloads*
+log*
+profile*
+xdg*
+.vncpass
